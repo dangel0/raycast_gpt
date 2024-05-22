@@ -1,3 +1,4 @@
+![First Preview of App](metadata/chat-1.png)
 # Proxy Chat
 This Raycast extension allows you to interact with OpenAI's GPT models directly from Raycast. Notably, this extension allows the user to select token usage limits. Users can ask questions or send prompts, and receive responses from the selected GPT model.
 
@@ -5,6 +6,11 @@ This Raycast extension allows you to interact with OpenAI's GPT models directly 
 Ask ChatGPT: Send prompts to ChatGPT and get responses instantly.
 Manage Conversations: View, save, and delete past conversations.
 Customizable Settings: Choose between different GPT models and set a maximum token limit for responses.
+
+![Second Preview of App](metadata/chat-2.png)
+
+![Third Preview of App](metadata/chat-3.png)
+
 ## Getting Started
 Install the Extension: Add this extension to your Raycast setup.
 Set up Your API Key: Obtain an API key from OpenAI and enter it in the extension's preferences.
