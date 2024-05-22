@@ -7,7 +7,7 @@ Ask ChatGPT: Send prompts to ChatGPT and get responses instantly.
 Manage Conversations: View, save, and delete past conversations.
 Customizable Settings: Choose between different GPT models and set a maximum token limit for responses.
 
-![Second Preview of App](metadata/chat-2.png)
+![Second Preview of App](metadata/chat-4.png)
 
 ![Third Preview of App](metadata/chat-3.png)
 
